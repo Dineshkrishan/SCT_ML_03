@@ -1,16 +1,16 @@
-SCT_ML_03
+**SCT_ML_03**
 
 Implement a Support Vector Machine (SVM) to classify images of cats and dogs
 
-SVM Image Classification
+**SVM Image Classification**
 
 This repository contains a Jupyter Notebook that demonstrates the implementation of a Support Vector Machine (SVM) to classify images of cats and dogs. Below is an overview of the project and how to use it.
 
-Contents
+**Contents**
 
 SVM_Image_Classifier.ipynb: The main Jupyter Notebook file where the SVM classifier is implemented.
 
-Features
+**Features**
 
 Data Preprocessing: Image resizing, normalization, and splitting into training and test sets.
 
@@ -20,7 +20,7 @@ Visualization: Graphical representation of the images and classification results
 
 Evaluation: Metrics to assess the performance of the classifier.
 
-Prerequisites
+**Prerequisites**
 
 Python 3.7 or above
 
@@ -64,7 +64,7 @@ jupyter notebook "SVM_Image_Classifier.ipynb"
 
 Follow the instructions in the notebook to preprocess the data, train the model, and evaluate its performance.
 
-Results
+**Results**
 
 The notebook provides:
 
@@ -76,15 +76,15 @@ Confusion matrix and classification report.
 
 Evaluation metrics such as accuracy, precision, recall, and F1-score.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+**Contact**
 
 For questions or feedback, please contact:
 
